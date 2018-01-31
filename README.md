@@ -1,5 +1,5 @@
 # trajet-facile
 
-Travel with kind people and with awesomness!
+Travel with kind people and with awesomeness!
 
 we care.
